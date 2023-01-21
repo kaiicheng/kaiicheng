@@ -21,9 +21,10 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiicheng/)](https://www.linkedin.com/in/kaiicheng/) 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-5CB85C?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/tw841117/)](https://leetcode.com/tw841117/)
 
+<!--
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiicheng&show_icons=true&count_private=true&theme=algolia&custom_title=GitHub%20Stats&include_all_commits=true&hide=issues&hide_title=true&card_width=400)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiicheng&layout=compact&hide=jupyter%20notebook&theme=algolia&custom_title=Top%20Languages&langs_count=4)
-
+-->
 
 <!-- ![Kai's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiicheng ID&layout=compact&hide_border=true&langs_count=10) -->
 
