@@ -1,10 +1,14 @@
 ### Hi there 👋
+### Welcome to Kai's GitHub
 
+[![GitHub](https://img.shields.io/badge/-GitHub-2F2F2F?style=flat&logo=github&logoColor=white&link=[https://github.com/kaiicheng](https://github.com/kaiicheng))](https://github.com/kaiicheng)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiicheng/)](https://www.linkedin.com/in/kaiicheng/) 
+[![LeetCode](https://img.shields.io/badge/-LeetCode-5CB85C?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/tw841117/)](https://leetcode.com/tw841117/)
 
 <!-- # README
  -->
  
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=kaiicheng)
+![Kai's github stats](https://github-readme-stats.vercel.app/api?username=kaiicheng)
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiicheng&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
@@ -15,11 +19,7 @@
 
 
 
-### Welcome to Kai's GitHub
 
-[![GitHub](https://img.shields.io/badge/-GitHub-2F2F2F?style=flat&logo=github&logoColor=white&link=[https://github.com/kaiicheng](https://github.com/kaiicheng))](https://github.com/kaiicheng)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiicheng/)](https://www.linkedin.com/in/kaiicheng/) 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-5CB85C?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/tw841117/)](https://leetcode.com/tw841117/)
 
 <!--
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiicheng&show_icons=true&count_private=true&theme=algolia&custom_title=GitHub%20Stats&include_all_commits=true&hide=issues&hide_title=true&card_width=400)
