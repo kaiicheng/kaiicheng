@@ -5,8 +5,8 @@
 <!-- Here are some ideas to get you started: -->
 
 - 👋 I’m @kaiicheng.
-- 👨‍🎓 I’m studying Computer Science at Cornell University - Cornell Tech 🔴🐻🌇.
 - 💻 I’m interested in Software Engineering and Data Science.
+- 👨‍🎓 I’m studying Computer Science at Cornell University - Cornell Tech 🔴🐻🌇.
 - 🤔 I’m actively seeking 2023 SDE/DS Summer Internship.
 
 
