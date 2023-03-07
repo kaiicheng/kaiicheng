@@ -6,7 +6,7 @@
 
 - 👋 I’m @kaiicheng.
 - 👨‍🎓 I’m currently studying Computer and Information Science at Cornell University - Cornell Tech 🔴🐻.
-- 💻 I’m interested in Software Engineering and Data Science/
+- 💻 I’m interested in Software Engineering and Data Science.
 - 🤔 I’m actively seeking 2023 SDE/DS Summer Internship.
 
 
