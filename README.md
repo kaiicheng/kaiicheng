@@ -2,7 +2,7 @@
 
 <!-- **kaiicheng/kaiicheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-Here are some ideas to get you started:
+<!-- Here are some ideas to get you started: -->
 
 - 👋 I’m @kaiicheng.
 - 👨‍🎓 I’m currently studying Computer and Information Science at Cornell University - Cornell Tech 🔴🐻.
