@@ -21,7 +21,8 @@
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
 
-[![Website](https://img.shields.io/badge/-Website-4B9AE5?style=flat&logo=safari&logoColor=white&link=https://leetcode.com/kaiicheng/)](https://leetcode.com/kaiicheng/)
+[![Website](https://img.shields.io/badge/-Website-4B9AE5?style=flat&logo=safari&logoColor=white&link=https://kaiicheng.github.io/)]
+(https://leetcode.com/kaiicheng/)
 [![GitHub](https://img.shields.io/badge/-GitHub-2F2F2F?style=flat&logo=github&logoColor=white&link=[https://github.com/kaiicheng](https://github.com/kaiicheng))](https://github.com/kaiicheng)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiicheng/)](https://www.linkedin.com/in/kaiicheng/) 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-5CB85C?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/kaiicheng/)](https://leetcode.com/kaiicheng/)
