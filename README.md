@@ -26,6 +26,14 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiicheng/)](https://www.linkedin.com/in/kaiicheng/) 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-5CB85C?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/kaiicheng/)](https://leetcode.com/kaiicheng/)
 
+<b>⚡ Developer Zone</b>
+<p float="left">
+<img height="220em" src="https://raw.githubusercontent.com/yang-su2000/github-stats/master/generated/overview.svg#gh-light-mode-only" /> 
+<img height="214em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yang-su2000&hide=jupyter%20notebook&exclude_repo=VR-Multimodal-Interaction&custom_title=Most%20Used%20Languages&langs_count=4" />
+<!-- <img height="220em" src="https://raw.githubusercontent.com/yang-su2000/github-stats/master/generated/languages.svg#gh-light-mode-only"/> -->
+</p>
+
+
 
 
 <!--
