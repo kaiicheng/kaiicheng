@@ -22,7 +22,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiicheng/)](https://www.linkedin.com/in/kaiicheng/) 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-5CB85C?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/kaiicheng/)](https://leetcode.com/kaiicheng/)
 [![Gmail](https://img.shields.io/badge/-Email-5CB85C?style=flat&logo=gmail&logoColor=white&link=mailto:sc2745@cornell.edu)](mailto:sc2745@cornell.edu)
-[![Instagram](https://img.shields.io/badge/-Instagram-5CB85C?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/kaiicheng/ (https://www.instagram.com/kaiicheng/)
+[![Instagram](https://img.shields.io/badge/-Instagram-5CB85C?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/kaiicheng/] (https://www.instagram.com/kaiicheng/)
 
 
 
