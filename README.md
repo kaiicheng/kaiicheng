@@ -24,10 +24,6 @@
 [![Gmail](https://img.shields.io/badge/-Email-5CB85C?style=flat&logo=gmail&logoColor=white&link=mailto:sc2745@cornell.edu)](mailto:sc2745@cornell.edu)
 [![Instagram](https://img.shields.io/badge/-Instagram-306EA8?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/kaiicheng/)](https://www.instagram.com/kaiicheng/)
 
-[![Instagram](https://img.shields.io/badge/-Instagram-5CB85C?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/kaiicheng/] (https://www.instagram.com/kaiicheng/)
-
-
-
 <!--
  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiicheng&show_icons=true&count_private=true&theme=algolia&custom_title=GitHub%20Stats&include_all_commits=true&hide=issues&hide_title=true&card_width=400)
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiicheng&layout=compact&hide=jupyter%20notebook&theme=algolia&custom_title=Top%20Languages&langs_count=4)
