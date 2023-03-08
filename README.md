@@ -9,8 +9,6 @@
 - 👨‍🎓 I’m studying Computer Science at Cornell University - Cornell Tech 🔴🐻🌇.
 - 🤔 I’m actively seeking 2023 SDE/DS Summer Internship.
 
-<br>
-
 ![Kai's github stats](https://github-readme-stats.vercel.app/api?username=kaiicheng)
 
 [![Website](https://img.shields.io/badge/-Website-4B9AE5?style=flat&logo=safari&logoColor=white&link=[https://kaiicheng.github.io/](https://kaiicheng.github.io/))](https://kaiicheng.github.io/)
