@@ -10,7 +10,6 @@
 - 👨‍🎓 I’m studying Computer Science at Cornell University - Cornell Tech 🔴🐻🌇.
 
 ![Kai's github stats](https://github-readme-stats.vercel.app/api?username=kaiicheng)
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiicheng&hide=javascript,css,scss,html&theme=tokyonight)
 
 
 [![Website](https://img.shields.io/badge/-Website-4B9AE5?style=flat&logo=safari&logoColor=white&link=[https://kaiicheng.github.io/](https://kaiicheng.github.io/))](https://kaiicheng.github.io/)
