@@ -7,7 +7,7 @@
 - 👋 I’m @kaiicheng.
 - 💻 I’m interested in Software Development and Data Science.
 - 🤔 I’m actively seeking 2023 SDE/DS Summer Internship.
-- 👨‍🎓 I’m studying Computer Science at Cornell University - Cornell Tech 🔴🐻🌇.
+- 👨‍🎓 I’m studying Computer and Information Science at Cornell University - Cornell Tech 🔴🐻🌇.
 
 
 ![Kai's github stats](https://github-readme-stats.vercel.app/api?username=kaiicheng)
