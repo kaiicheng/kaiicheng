@@ -5,7 +5,7 @@
 <!-- Here are some ideas to get you started: -->
 
 - 👋 I’m Kai.
-- ⌨️ Most proficient in Python, JavaScript, R.
+- 🛠️ Most proficient in Python, JavaScript, R.
 - 💻 I’m interested in Software Development and Data Science.
 - 🤔 I’m actively seeking 2023 SDE/DS Summer Internship.
 - 👨‍🎓 I’m studying Computer and Information Science at Cornell University - Cornell Tech 🔴🐻🌇.
