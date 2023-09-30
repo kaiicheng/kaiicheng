@@ -5,7 +5,7 @@
 <!-- Here are some ideas to get you started: -->
 
 - 👋 Hi! I’m Kai.
-- 🛠️ Most proficient in Python, Java, C++!
+- 🛠️ Most proficient in Python, Java, C++.
 - 💻 I’m interested in Software Development and Data Science.
 - 🤔 I’m actively seeking 2024 Software Development Engineer opportunity.
 - 👨‍🎓 I’m studying Computer and Information Science at Cornell University - Cornell Tech 🔴🐻🌇.
