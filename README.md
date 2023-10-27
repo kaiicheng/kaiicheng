@@ -8,6 +8,7 @@
 - 🛠️ Most proficient in Python, Java, C++.
 - 💻 I’m interested in Software Development and Data Science.
 - 🤔 I’m actively seeking 2024 Software Development Engineer opportunity.
+- 📚 I studied Electrical Engineering, Computer Science, and Physics at National Taiwan University.
 - 👨‍🎓 I’m studying Computer and Information Science at Cornell University - Cornell Tech 🔴🐻🌇.
 
 
