@@ -1,7 +1,6 @@
 ### Hi there 👋 Welcome to Kai's GitHub
 
 <!-- **kaiicheng/kaiicheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
-w
 <!-- Here are some ideas to get you started: -->
 
 - 👋 Hi! I’m Kai.
