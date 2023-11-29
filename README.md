@@ -12,7 +12,7 @@
 
 
 
-![Kai's github stats](https://github-readme-stats.vercel.app/api?username=kaiicheng) <img width="350em" src="https://leetcard.jacoblin.cool/kaiicheng?theme=light&ext=contest" />
+![Kai's github stats](https://github-readme-stats.vercel.app/api?username=kaiicheng) <img width="250em" src="https://leetcard.jacoblin.cool/kaiicheng?theme=light&ext=contest" />
 
 
 <b>&#128200; Grinding Zone</b>
