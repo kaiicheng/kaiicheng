@@ -12,12 +12,13 @@
 
 
 
-![Kai's github stats](https://github-readme-stats.vercel.app/api?username=kaiicheng)
+![Kai's github stats](https://github-readme-stats.vercel.app/api?username=kaiicheng) <img width="350em" src="https://leetcard.jacoblin.cool/kaiicheng?theme=light&ext=contest" />
+
 
 <b>&#128200; Grinding Zone</b>
 <p float="left">
 <img width="350em" src="https://leetcard.jacoblin.cool/kaiicheng?theme=light&ext=contest" />
-<img width="400em" src="https://raw.githubusercontent.com/kaiicheng/cf-stats/main/output/light_card.svg" />
+<!-- <img width="400em" src="https://raw.githubusercontent.com/kaiicheng/cf-stats/main/output/light_card.svg" /> -->
 </p>
 
 
