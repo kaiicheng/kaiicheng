@@ -34,7 +34,11 @@
 <img width="400em" height="275" src="https://leetcard.jacoblin.cool/kaiicheng?theme=light&ext=contest"/><img width="400em" src="https://raw.githubusercontent.com/kaiicheng/Codeforces-Dashboard/main/output/light_card.svg"/>
 </p>
 
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiicheng&layout=compact&hide=jupyter%20notebook&theme=algolia&custom_title=Top%20Languages&langs_count=4)
+
+
+<img height="214em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiicheng&hide=notjupyter%20notebook&exclude_repo=N/A&custom_title=Most%20Used%20Languages&langs_count=4" />
+<img width="350em" src="https://raw.githubusercontent.com/kaiicheng/Github-Dashboard/master/generated/languages.svg#gh-light-mode-only"/>
+
 
 
 
