@@ -21,30 +21,12 @@
 [![Codeforces](https://raw.githubusercontent.com/kaiicheng/Codeforces-Dashboard/main/output/max_rating.svg)](https://codeforces.com/profile/kaiicheng)
 
 
-<p align="left">
-  <a href="https://leetcode.com/kaiicheng/">
-    <img src="https://cp-logo.vercel.app/leetcode/kaiicheng" alt="Leet code rating"/>
-  </a>
-  <a href="https://codeforces.com/profile/kaiicheng">
-    <img src="https://raw.githubusercontent.com/kaiicheng/Codeforces-Dashboard/main/output/max_rating.svg" alt="Leet code rating" />
-  </a>
-<!--   <a href="https://github.com/kaiicheng/">
-    <img src="https://komarev.com/ghpvc/?username=kaiicheng" alt="visitors" />
-  </a>
- -->
-</p>
-
 <!--
 ![Kai's github stats](https://github-readme-stats.vercel.app/api?username=kaiicheng)
 -->
 <p float="left">
 <img width="344em" src="https://leetcard.jacoblin.cool/kaiicheng?theme=light&ext=contest"/><img width="400em" src="https://raw.githubusercontent.com/kaiicheng/Codeforces-Dashboard/main/output/light_card.svg"/>
 </p>
-
-
-
-
-
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiicheng&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiicheng) -->
