@@ -14,7 +14,8 @@
 
 <!-- ![Kai's github stats](https://github-readme-stats.vercel.app/api?username=kaiicheng) -->
 <img width="350em" src="https://leetcard.jacoblin.cool/kaiicheng?theme=light&ext=contest" />
-
+![](https://raw.githubusercontent.com/kaiicheng/cf-stats/main/output/light_card.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/kaiicheng/cf-stats/main/output/light_card.svg)
 
 [![Website](https://img.shields.io/badge/-Website-4B9AE5?style=flat&logo=safari&logoColor=white&link=[https://kaiicheng.github.io/](https://kaiicheng.github.io/))](https://kaiicheng.github.io/)
 [![GitHub](https://img.shields.io/badge/-GitHub-2F2F2F?style=flat&logo=github&logoColor=white&link=[https://github.com/kaiicheng](https://github.com/kaiicheng))](https://github.com/kaiicheng)
