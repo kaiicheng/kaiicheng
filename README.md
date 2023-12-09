@@ -11,8 +11,9 @@
 - 👨‍🎓 I’m studying Computer and Information Science at Cornell University - Cornell Tech 🔴🐻🌇.
 
 
-
+<!--
 ![Kai's github stats](https://github-readme-stats.vercel.app/api?username=kaiicheng)
+-->
 <p float="left">
 <img width="344em" src="https://leetcard.jacoblin.cool/kaiicheng?theme=light&ext=contest"/><img width="400em" src="https://raw.githubusercontent.com/kaiicheng/Codeforces-Dashboard/main/output/light_card.svg"/>
 </p>
