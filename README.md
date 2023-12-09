@@ -23,6 +23,11 @@
 <!-- [![LeetCode](https://img.shields.io/badge/-Codeforces-5CB85C?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/kaiicheng/)](https://leetcode.com/kaiicheng/) -->
 <!-- [![Instagram](https://img.shields.io/badge/-Instagram-d62976?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com//)](https://www.instagram.com//) -->
 
+<p float="left">
+<img width="344em" src="https://raw.githubusercontent.com/kaiicheng/Github-Dashboard/master/generated/overview.svg#gh-dark-mode-only"/><img width="400em" src="https://raw.githubusercontent.com/kaiicheng/Github-Dashboard/master/generated/languages.svg#gh-dark-mode-only"/>
+</p>
+
+
 ![](https://raw.githubusercontent.com/kaiicheng/Github-Dashboard/master/generated/overview.svg#gh-dark-mode-only)![](https://raw.githubusercontent.com/kaiicheng/Github-Dashboard/master/generated/overview.svg#gh-light-mode-only)![](https://raw.githubusercontent.com/kaiicheng/Github-Dashboard/master/generated/languages.svg#gh-dark-mode-only)![](https://raw.githubusercontent.com/kaiicheng/Github-Dashboard/master/generated/languages.svg#gh-light-mode-only)
 
 <!--
