@@ -20,6 +20,12 @@
 [![LeetCode](https://cp-logo.vercel.app/leetcode/kaiicheng)](https://leetcode.com/kaiicheng/)
 
 
+[![LeetCode](https://img.shields.io/badge/-Codeforces-5CB85C?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/kaiicheng/)](https://leetcode.com/kaiicheng/)
+[![LeetCode](https://cp-logo.vercel.app/leetcode/kaiicheng)](https://leetcode.com/kaiicheng/)
+![Gmail Logo](your-gmail-logo-url)
+
+
+
 <p align="left">
   <a href="https://leetcode.com/kaiicheng/">
     <img src="https://cp-logo.vercel.app/leetcode/kaiicheng" alt="Leet code rating"/>
