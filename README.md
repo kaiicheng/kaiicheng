@@ -3,6 +3,13 @@
 <!-- **kaiicheng/kaiicheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- Here are some ideas to get you started: -->
 
+[![Website](https://img.shields.io/badge/-Website-4B9AE5?style=flat&logo=safari&logoColor=white&link=[https://kaiicheng.github.io/](https://kaiicheng.github.io/))](https://kaiicheng.github.io/)
+[![GitHub](https://img.shields.io/badge/-GitHub-2F2F2F?style=flat&logo=github&logoColor=white&link=[https://github.com/kaiicheng](https://github.com/kaiicheng))](https://github.com/kaiicheng)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiicheng/)](https://www.linkedin.com/in/kaiicheng/) 
+[![LeetCode](https://img.shields.io/badge/-LeetCode-5CB85C?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/kaiicheng/)](https://leetcode.com/kaiicheng/)
+[![Gmail](https://img.shields.io/badge/-Email-D9534F?style=flat&logo=gmail&logoColor=white&link=mailto:sc2745@cornell.edu)](mailto:sc2745@cornell.edu)
+<!-- [![Instagram](https://img.shields.io/badge/-Instagram-d62976?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com//)](https://www.instagram.com//) -->
+
 - 👋 Hi! I’m Kai.
 - 🛠️ Most proficient in Python, Java, C++.
 - 💻 I’m interested in Software Development and Data Science.
@@ -18,13 +25,6 @@
 <img width="344em" src="https://leetcard.jacoblin.cool/kaiicheng?theme=light&ext=contest"/><img width="400em" src="https://raw.githubusercontent.com/kaiicheng/Codeforces-Dashboard/main/output/light_card.svg"/>
 </p>
 
-
-[![Website](https://img.shields.io/badge/-Website-4B9AE5?style=flat&logo=safari&logoColor=white&link=[https://kaiicheng.github.io/](https://kaiicheng.github.io/))](https://kaiicheng.github.io/)
-[![GitHub](https://img.shields.io/badge/-GitHub-2F2F2F?style=flat&logo=github&logoColor=white&link=[https://github.com/kaiicheng](https://github.com/kaiicheng))](https://github.com/kaiicheng)
-[![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiicheng/)](https://www.linkedin.com/in/kaiicheng/) 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-5CB85C?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/kaiicheng/)](https://leetcode.com/kaiicheng/)
-[![Gmail](https://img.shields.io/badge/-Email-D9534F?style=flat&logo=gmail&logoColor=white&link=mailto:sc2745@cornell.edu)](mailto:sc2745@cornell.edu)
-<!-- [![Instagram](https://img.shields.io/badge/-Instagram-d62976?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com//)](https://www.instagram.com//) -->
 
 <p align="left">
   <a href="https://leetcode.com/kaiicheng/">
