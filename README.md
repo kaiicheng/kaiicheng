@@ -31,9 +31,9 @@
 ![Kai's github stats](https://github-readme-stats.vercel.app/api?username=kaiicheng)
 -->
 <p float="left">
-<img width="400em" height="275" src="https://leetcard.jacoblin.cool/kaiicheng?theme=light&ext=contest"/><img width="400em" src="https://raw.githubusercontent.com/kaiicheng/Codeforces-Dashboard/main/output/light_card.svg"/>
+<img width="400em" height="275" src="https://leetcard.jacoblin.cool/kaiicheng?theme=light&ext=contest"/><img width="400em" src="https://github.com/kaiicheng/Codeforces-Dashboard/blob/main/output/light_card.svg"/>
 </p>
-
+<!-- https://raw.githubusercontent.com/kaiicheng/Codeforces-Dashboard/main/output/light_card.svg -->
 
 
 <img height="214em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiicheng&hide=notjupyter%20notebook&exclude_repo=N/A&custom_title=Most%20Used%20Languages&langs_count=4" />
