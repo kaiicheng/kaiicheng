@@ -19,10 +19,7 @@
 <p float="left">
 <img width="350em" src="https://leetcard.jacoblin.cool/kaiicheng?theme=light&ext=contest"/>
 <img width="400em" src="https://raw.githubusercontent.com/kaiicheng/Codeforces-Dashboard/main/output/light_card.svg"/>
-![](https://raw.githubusercontent.com/kaiicheng/Codeforces-Dashboard/main/output/light_card.svg)
 </p>
-https://raw.githubusercontent.com/kaiicheng/Codeforces-Dashboard/main/output/light_card.svg#gh-dark-mode-only
-
 
 
 [![Website](https://img.shields.io/badge/-Website-4B9AE5?style=flat&logo=safari&logoColor=white&link=[https://kaiicheng.github.io/](https://kaiicheng.github.io/))](https://kaiicheng.github.io/)
