@@ -8,7 +8,10 @@
 - 💻 I’m interested in Software Development and Data Science.
 - 🤔 I’m actively seeking 2024 Software Development Engineer opportunity.
 - 📚 I studied Electrical Engineering, Computer Science, and Physics at National Taiwan University.
-- 👨‍🎓 I’m studying Computer and Information Science at Cornell University - Cornell Tech 🔴🐻🌇.
+- 👨‍🎓 I’m studying Computer and Information Science at Cornell University - Cornell Tech 🔴🐻🌇.<!--
+
+<!-- Icon logo source -->
+<!-- https://simpleicons.org/ -->
 
 [![Website](https://img.shields.io/badge/-Website-4B9AE5?style=flat&logo=safari&logoColor=white&link=[https://kaiicheng.github.io/](https://kaiicheng.github.io/))](https://kaiicheng.github.io/)
 [![GitHub](https://img.shields.io/badge/-GitHub-2F2F2F?style=flat&logo=github&logoColor=white&link=[https://github.com/kaiicheng](https://github.com/kaiicheng))](https://github.com/kaiicheng)
