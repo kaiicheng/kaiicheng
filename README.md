@@ -24,19 +24,9 @@
 <img src="https://raw.githubusercontent.com/kaiicheng/Codeforces-Dashboard/main/output/max_rating.svg" alt="Leet code rating" />
 
 
-<div style="display: flex; align-items: center;">
-    <!-- LeetCode Image -->
-    <a href="mailto:sc2745@cornell.edu">
-        <img src="https://cp-logo.vercel.app/leetcode/kaiicheng" alt="LeetCode rating" style="margin-right: 10px;"/>
-    </a>
-
-    <!-- Codeforces Image -->
-    <img src="https://raw.githubusercontent.com/kaiicheng/Codeforces-Dashboard/main/output/max_rating.svg" alt="Codeforces rating" style="margin-right: 10px;"/>
-
-    <!-- Gmail Logo -->
-    <!-- Replace 'your-gmail-logo-url' with the actual URL of the Gmail logo -->
-    <img src="your-gmail-logo-url" alt="Gmail logo"/>
-</div>
+[![LeetCode](https://cp-logo.vercel.app/leetcode/kaiicheng)](mailto:sc2745@cornell.edu)
+![Codeforces Rating](https://raw.githubusercontent.com/kaiicheng/Codeforces-Dashboard/main/output/max_rating.svg)
+![Gmail Logo](your-gmail-logo-url)
 
 <p align="left">
   <a href="https://leetcode.com/kaiicheng/">
