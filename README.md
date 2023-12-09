@@ -28,15 +28,15 @@
 
 <p align="left">
   <a href="https://leetcode.com/kaiicheng/">
-    <img src="[https://cp-logo.vercel.app/leetcode/kaiicheng" alt="Leet code rating"/>
+    <img src="https://cp-logo.vercel.app/leetcode/kaiicheng" alt="Leet code rating"/>
   </a>
   <a href="https://codeforces.com/profile/kaiicheng">
     <img src="https://raw.githubusercontent.com/kaiicheng/Codeforces-Dashboard/main/output/max_rating.svg" alt="Leet code rating" />
   </a>
-  <a href="https://github.com/kaiicheng/">
+<!--   <a href="https://github.com/kaiicheng/">
     <img src="https://komarev.com/ghpvc/?username=kaiicheng" alt="visitors" />
   </a>
-
+ -->
 </p>
 
 
