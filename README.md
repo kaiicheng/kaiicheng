@@ -16,12 +16,9 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-5CB85C?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/kaiicheng/)](https://leetcode.com/kaiicheng/)
 [![Gmail](https://img.shields.io/badge/-Email-D9534F?style=flat&logo=gmail&logoColor=white&link=mailto:sc2745@cornell.edu)](mailto:sc2745@cornell.edu)
 <!-- [![Instagram](https://img.shields.io/badge/-Instagram-d62976?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com//)](https://www.instagram.com//) -->
-<a href="https://leetcode.com/kaiicheng/">
-  <img src="https://cp-logo.vercel.app/leetcode/kaiicheng" alt="Leet code rating"/>
-</a>
-<a href="https://codeforces.com/profile/kaiicheng">
-  <img src="https://raw.githubusercontent.com/kaiicheng/Codeforces-Dashboard/main/output/max_rating.svg" alt="Leet code rating" />
-</a>
+<img src="https://cp-logo.vercel.app/leetcode/kaiicheng" alt="Leet code rating"/>
+<img src="https://raw.githubusercontent.com/kaiicheng/Codeforces-Dashboard/main/output/max_rating.svg" alt="Leet code rating" />
+
 
 <p align="left">
   <a href="https://leetcode.com/kaiicheng/">
