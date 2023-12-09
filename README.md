@@ -28,7 +28,7 @@
 
 <p align="left">
   <a href="https://leetcode.com/kaiicheng/">
-    <img src="[https://cp-logo.vercel.app/leetcode/shinever" alt="Leet code rating](https://raw.githubusercontent.com/kaiicheng/Codeforces-Dashboard/main/output/rating.svg)" />
+    <img src="[https://cp-logo.vercel.app/leetcode/kaiicheng" alt="Leet code rating"/>
   </a>
   <a href="https://codeforces.com/profile/kaiicheng">
     <img src="https://raw.githubusercontent.com/kaiicheng/Codeforces-Dashboard/main/output/max_rating.svg" alt="Leet code rating" />
