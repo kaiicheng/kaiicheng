@@ -25,8 +25,10 @@
 [![Gmail](https://img.shields.io/badge/-Email-D9534F?style=flat&logo=gmail&logoColor=white&link=mailto:sc2745@cornell.edu)](mailto:sc2745@cornell.edu)
 <!-- [![Instagram](https://img.shields.io/badge/-Instagram-d62976?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com//)](https://www.instagram.com//) -->
 ![](https://raw.githubusercontent.com/kaiicheng/Codeforces-Dashboard/main/output/max_rating.svg)
-![](https://raw.githubusercontent.com/kaiicheng/Codeforces-Dashboard/main/output/rating.svg)
-
+<!-- ![](https://raw.githubusercontent.com/kaiicheng/Codeforces-Dashboard/main/output/rating.svg) -->
+  <a href="https://leetcode.com/kaiicheng/">
+    <img src="https://cp-logo.vercel.app/leetcode/kaiicheng" alt="Leet code rating" />
+  </a>
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiicheng&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
