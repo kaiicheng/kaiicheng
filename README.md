@@ -18,7 +18,7 @@
 
 <p float="left">
 <img width="350em" src="[https://leetcard.jacoblin.cool/shinever?theme=light&ext=contest](https://leetcard.jacoblin.cool/shinever?theme=light&ext=contest)" />
-<img width="400em" src="[https://raw.githubusercontent.com/yang-su2000/cf-stats/main/output/light_card.svg](https://raw.githubusercontent.com/kaiicheng/Codeforces-Dashboard/main/output/light_card.svg)" />
+<img width="400em" src="[[https://raw.githubusercontent.com/yang-su2000/cf-stats/main/output/light_card.svg](https://raw.githubusercontent.com/kaiicheng/Codeforces-Dashboard/main/output/light_card.svg)]([https://raw.githubusercontent.com/kaiicheng/Codeforces-Dashboard/main/output/light_card.svg](https://raw.githubusercontent.com/kaiicheng/Codeforces-Dashboard/main/output/light_card.svg))" />
 </p>
 
 
