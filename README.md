@@ -20,6 +20,9 @@
 <img width="350em" src="[https://leetcard.jacoblin.cool/shinever?theme=light&ext=contest](https://raw.githubusercontent.com/kaiicheng/cf-stats/main/output/light_card.svg#gh-dark-mode-only)" /><img width="400em" src="[https://raw.githubusercontent.com/yang-su2000/cf-stats/main/output/light_card.svg](https://raw.githubusercontent.com/kaiicheng/cf-stats/main/output/light_card.svg)" />
 </p>
 
+![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/max_rating.svg)
+![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg)
+
 
 
 [![Website](https://img.shields.io/badge/-Website-4B9AE5?style=flat&logo=safari&logoColor=white&link=[https://kaiicheng.github.io/](https://kaiicheng.github.io/))](https://kaiicheng.github.io/)
