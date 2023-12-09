@@ -18,12 +18,8 @@
 [![LeetCode](https://img.shields.io/badge/-Codeforces-5CB85C?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/kaiicheng/)](https://leetcode.com/kaiicheng/)
 <!-- [![Instagram](https://img.shields.io/badge/-LeetCode-d62976?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com//)](https://www.instagram.com//) -->
 [![LeetCode](https://cp-logo.vercel.app/leetcode/kaiicheng)](https://leetcode.com/kaiicheng/)
-
-
-[![LeetCode](https://img.shields.io/badge/-Codeforces-5CB85C?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/kaiicheng/)](https://leetcode.com/kaiicheng/)
-[![LeetCode](https://cp-logo.vercel.app/leetcode/kaiicheng)](https://leetcode.com/kaiicheng/)
-![Gmail Logo](your-gmail-logo-url)
-
+<a href="https://leetcode.com/kaiicheng/"><img src="https://cp-logo.vercel.app/leetcode/kaiicheng" alt="Leet code rating"/></a>
+<a href="https://codeforces.com/profile/kaiicheng"><img src="https://raw.githubusercontent.com/kaiicheng/Codeforces-Dashboard/main/output/max_rating.svg" alt="Leet code rating" /></a>
 
 
 <p align="left">
