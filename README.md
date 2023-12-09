@@ -33,13 +33,12 @@
   <a href="https://codeforces.com/profile/kaiicheng">
     <img src="https://raw.githubusercontent.com/kaiicheng/Codeforces-Dashboard/main/output/max_rating.svg" alt="Leet code rating" />
   </a>
-<!--   <a href="https://github.com/yang-su2000/">
-    <img src="https://komarev.com/ghpvc/?username=yang-su2000" alt="visitors" />
-  </a> -->
+  <a href="https://github.com/kaiicheng/">
+    <img src="https://komarev.com/ghpvc/?username=kaiicheng" alt="visitors" />
+  </a>
 
 </p>
 
-<!-- ![](https://raw.githubusercontent.com/kaiicheng/Codeforces-Dashboard/main/output/rating.svg) --><a href="https://leetcode.com/kaiicheng/"><img src="https://cp-logo.vercel.app/leetcode/kaiicheng" alt="Leet code rating" /></a>
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiicheng&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
