@@ -13,8 +13,9 @@
 [![Website](https://img.shields.io/badge/-Website-4B9AE5?style=flat&logo=safari&logoColor=white&link=[https://kaiicheng.github.io/](https://kaiicheng.github.io/))](https://kaiicheng.github.io/)
 [![GitHub](https://img.shields.io/badge/-GitHub-2F2F2F?style=flat&logo=github&logoColor=white&link=[https://github.com/kaiicheng](https://github.com/kaiicheng))](https://github.com/kaiicheng)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiicheng/)](https://www.linkedin.com/in/kaiicheng/) 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-5CB85C?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/kaiicheng/)](https://leetcode.com/kaiicheng/)
 [![Gmail](https://img.shields.io/badge/-Email-D9534F?style=flat&logo=gmail&logoColor=white&link=mailto:sc2745@cornell.edu)](mailto:sc2745@cornell.edu)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-5CB85C?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/kaiicheng/)](https://leetcode.com/kaiicheng/)
+[![LeetCode](https://img.shields.io/badge/-Codeforces-5CB85C?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/kaiicheng/)](https://leetcode.com/kaiicheng/)
 <!-- [![Instagram](https://img.shields.io/badge/-LeetCode-d62976?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com//)](https://www.instagram.com//) -->
 [![LeetCode](https://cp-logo.vercel.app/leetcode/kaiicheng)](mailto:sc2745@cornell.edu)
 
