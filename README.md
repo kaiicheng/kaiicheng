@@ -24,7 +24,7 @@
 <!-- [![Instagram](https://img.shields.io/badge/-Instagram-d62976?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com//)](https://www.instagram.com//) -->
 
 <p float="left">
-<img width="344em" height="344em" src="https://raw.githubusercontent.com/kaiicheng/Github-Dashboard/master/generated/overview.svg#gh-light-mode-only"/><img width="400em" src="https://raw.githubusercontent.com/kaiicheng/Github-Dashboard/master/generated/languages.svg#gh-light-mode-only"/>
+<img width="344em" height="300em" src="https://raw.githubusercontent.com/kaiicheng/Github-Dashboard/master/generated/overview.svg#gh-light-mode-only"/><img width="400em" src="https://raw.githubusercontent.com/kaiicheng/Github-Dashboard/master/generated/languages.svg#gh-light-mode-only"/>
 </p>
 
 <!--
