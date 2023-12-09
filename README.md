@@ -20,8 +20,6 @@
 <img width="350em" src="[https://leetcard.jacoblin.cool/shinever?theme=light&ext=contest](https://raw.githubusercontent.com/kaiicheng/cf-stats/main/output/light_card.svg#gh-dark-mode-only)" /><img width="400em" src="[https://raw.githubusercontent.com/yang-su2000/cf-stats/main/output/light_card.svg](https://raw.githubusercontent.com/kaiicheng/cf-stats/main/output/light_card.svg)" />
 </p>
 
-![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/max_rating.svg)
-![](https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg)
 
 
 
@@ -31,6 +29,8 @@
 [![LeetCode](https://img.shields.io/badge/-LeetCode-5CB85C?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/kaiicheng/)](https://leetcode.com/kaiicheng/)
 [![Gmail](https://img.shields.io/badge/-Email-D9534F?style=flat&logo=gmail&logoColor=white&link=mailto:sc2745@cornell.edu)](mailto:sc2745@cornell.edu)
 <!-- [![Instagram](https://img.shields.io/badge/-Instagram-d62976?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com//)](https://www.instagram.com//) -->
+![](https://raw.githubusercontent.com/kaiicheng/cf-stats/main/output/max_rating.svg)
+<-- (https://raw.githubusercontent.com/sudiptob2/cf-stats/main/output/rating.svg) -->
 
 
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiicheng&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
