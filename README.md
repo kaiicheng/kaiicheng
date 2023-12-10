@@ -35,10 +35,10 @@
 </p>
 <!-- https://raw.githubusercontent.com/kaiicheng/Codeforces-Dashboard/main/output/light_card.svg -->
 
-
+<!-- 
 <img height="214em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiicheng&hide=notjupyter%20notebook&exclude_repo=N/A&custom_title=Most%20Used%20Languages&langs_count=4" />
 <img width="350em" src="https://raw.githubusercontent.com/kaiicheng/Github-Dashboard/master/generated/languages.svg#gh-light-mode-only"/>
-
+-->
 
 
 
