@@ -3,7 +3,7 @@
 <!-- **kaiicheng/kaiicheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- Here are some ideas to get you started: -->
 
-- 👋 Hi! I’m Kai.
+- 👋 Hi! I’m Kai C.
 - 🛠️ Most proficient in Python, Java, C++.
 - 💻 I’m interested in Software Development, Data Analytics, and Data Science.
 - 🤔 I’m actively seeking 2024 Software Development Engineer opportunity.
