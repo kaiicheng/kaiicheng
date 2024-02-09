@@ -4,8 +4,8 @@
 <!-- Here are some ideas to get you started: -->
 
 - 👋 Hi! I’m Kai.
-- 🛠️ Proficient in Python, Java, C++.
-- 💻 I’m interested in Software Development, Data Science, and Consulting.
+- 💻  I’m interested in Software Development, Data Science, and Consulting. Proficient in Python, Java, C++. 
+<!-- - 🛠️--> 
 - 🤔 I’m actively seeking 2024 Software Development Engineer/Data Scientist opportunity.
 - 👨‍🎓 I’m studying Computer and Information Science at Cornell University - Cornell Tech 🔴🐻🌇.
 - 📚 I studied Social Sciences, Business, Computer Science, Electrical Engineering, and Physics at National Taiwan University.
