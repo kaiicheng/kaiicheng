@@ -8,7 +8,7 @@
 - 💻 Proficient in Python, Java, C++. 
 - 🛠️ I’m interested in Software Development, Data Science, Machine Learning, NLP, and Startup.
 - 👨‍🎓 I’m studying Computer and Information Science at Cornell University - Cornell Tech 🔴🐻🌇.
-- 📚 I studied Social Sciences, Business, Computer Science, Electrical Engineering, and Physics at National Taiwan University.
+- 📚 I studied Computer Science, Electrical Engineering, Physics, Social Sciences, and Business at National Taiwan University.
 
 <!-- Icon logo source -->
 <!-- https://simpleicons.org/ -->
