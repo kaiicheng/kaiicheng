@@ -6,7 +6,7 @@
 
 - 👋 Hi! I’m Kai.
 - 💻 Proficient in Python, Java, C++. 
-- 🛠️ I’m interested in Software Development, NLP, and Data Science.
+- 🛠️ I’m interested in Software Development, NLP, Data Science, and Statistics.
 - 👨‍🎓 I’m studying Computer Science and Information Systems at Cornell University - Cornell Tech in NYC 🔴🐻🌇.
 - 📚 I studied Computer Science, Electrical Engineering, Physics, Social Sciences, and Business at National Taiwan University.
 
