@@ -4,7 +4,7 @@
 <!-- Here are some ideas to get you started: -->
 <!-- - 🤔 I’m actively seeking 2024 Software Development Engineer/Data Scientist opportunity.-->
 
-- 👋 Hi! I’m Kai Cheng.
+- 👋 Hi! I’m Kai.
 - 💻 Proficient in Python, Java, C++.
 - 🛠️ I’m interested in Software Engineering, Machine Learning, NLP, Data Science, and Statistics.
 - 👨‍🎓 I’m studying Computer and Information Science at Cornell University - Cornell Tech in NYC 🔴🐻🌇.
