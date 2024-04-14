@@ -11,6 +11,7 @@
 - 👨‍💻 Experienced as a Software Engineer, Data Scientist, ML Engineer, and Business Consultant.
 - 👨‍🎓 I’m studying Computer and Information Science at Cornell University - Cornell Tech in NYC 🔴🐻🌇.
 - 📚 I studied Computer Science, Electrical Engineering, Physics, Business, and Social Sciences at National Taiwan University.
+  
 
 <!-- Icon logo source -->
 <!-- https://simpleicons.org/ -->
