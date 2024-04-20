@@ -6,7 +6,7 @@
 <!-- - 🤔 I’m actively seeking 2024 Software Development Engineer/Data Scientist opportunity.-->
 
 - 👋 Hi! I’m Kai.
-- 💻 Proficient in Python, Java, C++.
+- 💻 Proficient in Python, Java, C/C++, .
 - 🛠️ I’m interested in Software Engineering, CV, NLP, Data Science, and Robotics.
 - 👨‍💻 Experienced as a Software Engineer, Data Scientist, ML Engineer, and Business Consultant.
 - 👨‍🎓 I’m studying Computer and Information Science at Cornell University - Cornell Tech in NYC 🔴🐻🌇.
