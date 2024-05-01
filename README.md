@@ -7,7 +7,7 @@
 - 👋 Hi! I’m Kai.
 - 💻 Proficient in Python, Java, C/C++.
 - 🔍 Actively seeking SDE/DS/MLE opportunity.
-- 🛠️ Interested in Software Engineering, CV, NLP, Data Science, and Robotics.
+- 🛠️ Interested in Software Engineering, CV, NLP, HCI, Robotics, and Consulting.
 - 👨‍💻 Experienced as a Software Engineer, Data Scientist, ML Engineer, and Business Consultant.
 - 👨‍🎓 Studying Computer and Information Science at Cornell University - Cornell Tech in NYC 🔴🐻🌇.
 - 📚 Studied Computer Science, Electrical Engineering, Physics, Business, and Social Sciences at National Taiwan University.
