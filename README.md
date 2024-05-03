@@ -4,7 +4,7 @@
 <!-- Here are some ideas to get you started: -->
 <!-- - 🤔 I’m actively seeking 2024 Software Development Engineer/Data Scientist opportunity.-->
 
-- 👋 Hi! I’m Kai Cheng.
+- 👋 Hi! I’m Kai.
 - 💻 Proficient in Python, Java, C/C++.
 - 🔍 Actively seeking SDE/DS/MLE opportunity.
 - 🛠️ Interested in Software Engineering, CV, NLP, HCI, Robotics, and Consulting.
