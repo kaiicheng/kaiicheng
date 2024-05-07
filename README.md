@@ -9,7 +9,7 @@
 - 🛠️ Interested in Software Engineering, CV, NLP, HCI, Robotics, LLMs and Consulting.
 - 👨‍💻 Experienced as a Software Engineer, Data Scientist, ML Engineer, and Business Consultant.
 - 👨‍🎓 Studying Computer and Information Science at Cornell University (Bowers CIS) - Cornell Tech in NYC 🔴🐻🌇.
-- 📚 Studied Computer Science, Electrical Engineering, Physics, Business, and Social Sciences at National Taiwan University.
+- 📚 Studied Computer Science, Electrical Engineering, Physics, Business, and Social Sciences at National Taiwan University (NTU).
   
 
 <!-- Icon logo source -->
