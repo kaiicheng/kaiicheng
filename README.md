@@ -7,7 +7,7 @@
 - 💻 Proficient in Python, Java, C/C++.
 - 🔍 Actively seeking SDE/DS/MLE opportunity.
 - 🛠️ Interested in NLP, HCI, VR/AR, LLMs, CV and Consulting.
-- 👨‍💻 Experienced as a Software Engineer, Data Scientist, ML Engineer, and Business Consultant.
+- 👨‍💻 Experienced as ML Engineer, Data Scientist, Software Engineer and Business Consultant.
 - 👨‍🎓 Studying Computer and Information Science at Cornell University (Bowers CIS) - Cornell Tech in NYC 🔴🐻.
 - 📚 Studied Computer Science, Electrical Engineering, Physics, Business, and Social Sciences at National Taiwan University (NTU).
   
