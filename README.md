@@ -1,4 +1,3 @@
-
 ### Welcome to Kai's GitHub
 <!-- **kaiicheng/kaiicheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- - 🤔 I’m actively seeking 2024 Software Development Engineer/Data Scientist opportunity.-->
