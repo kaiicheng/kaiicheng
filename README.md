@@ -5,7 +5,7 @@
 - 👋 Hi! I’m Kai Cheng.
 - 💻 Proficient in Python, Java, C/C++.
 - 🔍 Actively seeking SDE/DS/MLE opportunity.
-- 🛠️ Interested in NLP, LLMs, VR/AR, Time series, and Consulting.
+- 🛠️ Interested in NLP, LLMs, VR/AR, and Robotics.
 - 👨‍💻 Experienced as Software Engineer, ML Engineer, Data Scientist and Business Consultant.
 - 👨‍🎓 Studying Computer and Information Science at Cornell University (Bowers CIS) - Cornell Tech in NYC 🔴🐻.
 - 📚 Studied Computer Science, Electrical Engineering, Physics, Business, and Social Sciences at National Taiwan University (NTU).
