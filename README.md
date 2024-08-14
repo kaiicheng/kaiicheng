@@ -1,10 +1,11 @@
 ### Welcome to Kai's GitHub
+- 🔍 Actively seeking SDE/DS/MLE opportunity.
+
 <!-- **kaiicheng/kaiicheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- - 🤔 I’m actively seeking 2024 Software Development Engineer/Data Scientist opportunity.-->
 
 - 👋 Hi! I’m Kai Cheng. 
 - 💻 Proficient in Python, Java, C/C++.
-- 🔍 Actively seeking SDE/DS/MLE opportunity.
 - 🛠️ Interested in NLP, LLMs, and Data Science.
 - 👨‍💻 Experienced as Software Engineer, ML Engineer, Data Scientist and Business Consultant.
 - 👨‍🎓 Studied Computer and Information Science at Cornell University (Bowers CIS) - Cornell Tech in NYC 🔴🐻.
