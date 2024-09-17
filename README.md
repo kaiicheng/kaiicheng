@@ -1,7 +1,6 @@
 ### Welcome to Kai's GitHub
 🔍 I'm actively seeking Software Engineer/Machine Learning Engineer/Data Scientist opportunity in NYC.
 
-
 <!-- **kaiicheng/kaiicheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- - 🤔 I’m actively seeking 2024 Software Development Engineer/Data Scientist opportunity.-->
 
