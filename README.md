@@ -53,7 +53,6 @@
 ![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiicheng&layout=compact&hide=jupyter%20notebook&theme=algolia&custom_title=Top%20Languages&langs_count=4)
 -->
 
-
 <!-- ![Kai's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiicheng ID&layout=compact&hide_border=true&langs_count=10) -->
 <!-- 
 Here are some ideas to get you started:
