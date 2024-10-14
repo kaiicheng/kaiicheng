@@ -1,5 +1,5 @@
 ### Welcome to Kai's GitHub
-🔍 I'm actively seeking a Software Engineer/Machine Learning Engineer/Data Scientist opportunity.
+🔍 I'm actively seeking a Software Engineer/Machine Learning Engineer/Data Scientist opportunity. 
 
 <!-- **kaiicheng/kaiicheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 <!-- - 🤔 I’m actively seeking 2024 Software Development Engineer/Data Scientist opportunity.-->
