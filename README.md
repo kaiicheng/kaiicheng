@@ -21,6 +21,7 @@
 [![Gmail](https://img.shields.io/badge/-Email-D9534F?style=flat&logo=gmail&logoColor=white&link=mailto:sc2745@cornell.edu)](mailto:sc2745@cornell.edu)
 [![LeetCode](https://cp-logo.vercel.app/leetcode/kaiicheng)](https://leetcode.com/kaiicheng/)
 [![LeetCode](https://cp-logo.vercel.app/leetcode/kaiicheng)](https://leetcode.com/kaiicheng/)
+[![LeetCode](https://raw.githubusercontent.com/kaiicheng/Leetcode-Dashboard/main/output/max_rating.svg)](https://leetcode.com/kaiicheng)
 [![Codeforces](https://raw.githubusercontent.com/kaiicheng/Codeforces-Dashboard/main/output/max_rating.svg)](https://codeforces.com/profile/kaiicheng)
 [![Visitors](https://komarev.com/ghpvc/?username=kaiicheng)](https://github.com/kaiicheng/)
 <!-- [![LeetCode](https://img.shields.io/badge/-LeetCode-5CB85C?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/kaiicheng/)](https://leetcode.com/kaiicheng/) -->
