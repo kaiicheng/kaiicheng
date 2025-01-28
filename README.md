@@ -26,8 +26,8 @@
 <!--[![LeetCode](https://cp-logo.vercel.app/leetcode/kaiicheng)](https://leetcode.com/kaiicheng/)-->
 
 <p style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-<img width="375em" src="https://github.com/kaiicheng/Github-Dashboard/blob/master/generated/overview.svg" /> 
-<img width="375em" src="https://github.com/kaiicheng/Github-Dashboard/blob/master/generated/languages.svg"/>
+<img width="400em" src="https://github.com/kaiicheng/Github-Dashboard/blob/master/generated/overview.svg" /> 
+<img width="400em" src="https://github.com/kaiicheng/Github-Dashboard/blob/master/generated/languages.svg"/>
 </p>
 
 <p style="display: flex; justify-content: center; align-items: center; gap: 20px;">
