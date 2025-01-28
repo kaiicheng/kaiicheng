@@ -34,7 +34,7 @@
 </div>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img style="height: 288px; margin-right: 20px;" src="https://leetcard.jacoblin.cool/kaiicheng?theme=light&ext=contest&width=600&radius=10&border=2" alt="LeetCode Stats"/>
+  <img style="height: 288px; margin-right: 2px;" src="https://leetcard.jacoblin.cool/kaiicheng?theme=light&ext=contest&width=600&radius=10&border=2" alt="LeetCode Stats"/>
   <img style="height: 290px;" src="https://github.com/kaiicheng/Codeforces-Dashboard/blob/main/output/light_card.svg" alt="Codeforces Stats"/>
 </div>
 
