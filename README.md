@@ -33,7 +33,7 @@
 </p>
 
 <p align="center">
-  <img width="400em" height="100em" src="https://github-readme-stats.vercel.app/api?username=kaiicheng&show_icons=true&theme=light" alt="GitHub Stats"/>
+  <img width="400em" height="500em" src="https://github-readme-stats.vercel.app/api?username=kaiicheng&show_icons=true&theme=light" alt="GitHub Stats"/>
 </p>
 <p>
   <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiicheng&layout=compact&theme=light" alt="Most Used Languages"/>
