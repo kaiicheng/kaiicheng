@@ -27,32 +27,21 @@
 <!-- [![LeetCode](https://img.shields.io/badge/-Codeforces-5CB85C?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/kaiicheng/)](https://leetcode.com/kaiicheng/) -->
 <!-- [![Instagram](https://img.shields.io/badge/-Instagram-d62976?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com//)](https://www.instagram.com//) -->
 
-<p float="left">
-<img width="400em" src="https://raw.githubusercontent.com/kaiicheng/Github-Dashboard/master/generated/overview.svg#gh-light-mode-only"/><img width="400em" src="https://raw.githubusercontent.com/kaiicheng/Github-Dashboard/master/generated/languages.svg#gh-light-mode-only"/>
+<p align="center">
+  <img width="400em" src="https://raw.githubusercontent.com/kaiicheng/Github-Dashboard/master/generated/overview.svg" alt="GitHub Overview"/>
+  <img width="400em" src="https://raw.githubusercontent.com/kaiicheng/Github-Dashboard/master/generated/languages.svg" alt="Top Languages"/>
 </p>
 
-<!--
-![Kai's github stats](https://github-readme-stats.vercel.app/api?username=kaiicheng)
--->
-<p float="left">
-<img width="400em" height="275" src="https://leetcard.jacoblin.cool/kaiicheng?theme=light&ext=contest"/><img width="400em" src="https://github.com/kaiicheng/Codeforces-Dashboard/blob/main/output/light_card.svg"/>
+<p align="center">
+  <img width="400em" height="275" src="https://leetcard.jacoblin.cool/kaiicheng?theme=light&ext=contest" alt="LeetCode Stats"/>
+  <img width="400em" src="https://github.com/kaiicheng/Codeforces-Dashboard/blob/main/output/light_card.svg" alt="Codeforces Stats"/>
 </p>
-<!-- https://raw.githubusercontent.com/kaiicheng/Codeforces-Dashboard/main/output/light_card.svg -->
 
-<!-- 
-<img height="214em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiicheng&hide=notjupyter%20notebook&exclude_repo=N/A&custom_title=Most%20Used%20Languages&langs_count=4" />
-<img width="350em" src="https://raw.githubusercontent.com/kaiicheng/Github-Dashboard/master/generated/languages.svg#gh-light-mode-only"/>
--->
-<img width="400em" src="https://github-readme-stats.vercel.app/api?username=kaiicheng&show_icons=true&theme=light" alt="GitHub Overview"/>
-<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiicheng&layout=compact&theme=light" alt="Top Languages"/>
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiicheng&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiicheng) -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats) -->
+<p align="center">
+  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=kaiicheng&show_icons=true&theme=light" alt="GitHub Stats"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiicheng&layout=compact&theme=light" alt="Most Used Languages"/>
+</p>
 
-<!--
- ![GitHub stats](https://github-readme-stats.vercel.app/api?username=kaiicheng&show_icons=true&count_private=true&theme=algolia&custom_title=GitHub%20Stats&include_all_commits=true&hide=issues&hide_title=true&card_width=400)
-![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiicheng&layout=compact&hide=jupyter%20notebook&theme=algolia&custom_title=Top%20Languages&langs_count=4)
--->
 
 <!-- ![Kai's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiicheng ID&layout=compact&hide_border=true&langs_count=10) -->
 <!-- 
