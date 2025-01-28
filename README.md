@@ -28,7 +28,7 @@
 <!--[![LeetCode](https://cp-logo.vercel.app/leetcode/kaiicheng)](https://leetcode.com/kaiicheng/)-->
 
 <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-  <img width="400em" height="290" src="https://leetcard.jacoblin.cool/kaiicheng?theme=light&ext=contest&radius=10&width=600&height=400&border=2" alt="LeetCode Stats"/>
+  <img width="400em" height="290" src="https://leetcard.jacoblin.cool/kaiicheng?theme=light&ext=contest&radius=10&width=600&height=405&border=2" alt="LeetCode Stats"/>
   <img width="400em" src="https://github.com/kaiicheng/Codeforces-Dashboard/blob/main/output/light_card.svg" alt="Codeforces Stats"/>
 </div>
 
