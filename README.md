@@ -36,7 +36,7 @@
   <img width="400em" height="300em" src="https://github-readme-stats.vercel.app/api?username=kaiicheng&show_icons=true&theme=light" alt="GitHub Stats"/>
 </p>
 <p>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiicheng&layout=compact&theme=light" alt="Most Used Languages"/>
+  <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiicheng&layout=compact&theme=light" alt="Most Used Languages"/>
 </p>
 
 
