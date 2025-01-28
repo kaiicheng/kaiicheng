@@ -37,7 +37,7 @@
   <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiicheng&layout=compact&theme=light" alt="Most Used Languages"/>
 </div>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&size_weight=0.5&count_weight=0.5)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiicheng&size_weight=0.5&count_weight=0.5)
 
 
 <!-- ![Kai's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiicheng ID&layout=compact&hide_border=true&langs_count=10) -->
