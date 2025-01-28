@@ -33,8 +33,8 @@
 </p>
 
 <div style="display: flex; justify-content: center; align-items: center;">
-  <img width="400em" height="100em" src="https://github-readme-stats.vercel.app/api?username=kaiicheng&show_icons=true&theme=light" alt="GitHub Stats"/>
-  <img width="300em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiicheng&layout=compact&theme=light" alt="Most Used Languages"/>
+  <img width="400em" height="200em" src="https://github-readme-stats.vercel.app/api?username=kaiicheng&show_icons=true&theme=light" alt="GitHub Stats"/>
+  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiicheng&layout=compact&theme=light" alt="Most Used Languages"/>
 </div>
 
 <!-- ![Kai's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiicheng ID&layout=compact&hide_border=true&langs_count=10) -->
