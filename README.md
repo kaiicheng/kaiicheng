@@ -26,7 +26,7 @@
 <!--[![LeetCode](https://cp-logo.vercel.app/leetcode/kaiicheng)](https://leetcode.com/kaiicheng/)-->
 
 <p float="left">
-<img width="375em" src="https://raw.githubusercontent.com/kaiicheng/github-stats/master/generated/overview.svg#gh-light-mode-only" /> 
+<img width="375em" src="https://github.com/kaiicheng/Github-Dashboard/blob/master/generated/overview.svg" /> 
 <!-- <img height="214em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yang-su2000&hide=notjupyter%20notebook&exclude_repo=N/A&custom_title=Most%20Used%20Languages&langs_count=4" /> -->
 <img width="375em" src="https://raw.githubusercontent.com/kaiicheng/github-stats/master/generated/languages.svg#gh-light-mode-only"/>
 </p>
