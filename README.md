@@ -27,10 +27,10 @@
 <!-- [![LeetCode](https://img.shields.io/badge/-Codeforces-5CB85C?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/kaiicheng/)](https://leetcode.com/kaiicheng/) -->
 <!-- [![Instagram](https://img.shields.io/badge/-Instagram-d62976?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com//)](https://www.instagram.com//) -->
 
-<p align="center">
+<div style="display: flex; justify-content: center; align-items: center;">
   <img width="400em" height="275" src="https://leetcard.jacoblin.cool/kaiicheng?theme=light&ext=contest&width=600" alt="LeetCode Stats"/>
   <img width="400em" src="https://github.com/kaiicheng/Codeforces-Dashboard/blob/main/output/light_card.svg" alt="Codeforces Stats"/>
-</p>
+</div>
 
 <div style="display: flex; justify-content: center; align-items: center;">
   <img width="400em" height="200em" src="https://github-readme-stats.vercel.app/api?username=kaiicheng&show_icons=true&theme=light" alt="GitHub Stats"/>
