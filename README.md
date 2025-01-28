@@ -28,11 +28,6 @@
 <!-- [![Instagram](https://img.shields.io/badge/-Instagram-d62976?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com//)](https://www.instagram.com//) -->
 
 <p align="center">
-  <img width="400em" src="https://raw.githubusercontent.com/kaiicheng/Github-Dashboard/master/generated/overview.svg" alt="GitHub Overview"/>
-  <img width="400em" src="https://raw.githubusercontent.com/kaiicheng/Github-Dashboard/master/generated/languages.svg" alt="Top Languages"/>
-</p>
-
-<p align="center">
   <img width="400em" height="275" src="https://leetcard.jacoblin.cool/kaiicheng?theme=light&ext=contest" alt="LeetCode Stats"/>
   <img width="400em" src="https://github.com/kaiicheng/Codeforces-Dashboard/blob/main/output/light_card.svg" alt="Codeforces Stats"/>
 </p>
