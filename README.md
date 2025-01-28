@@ -28,16 +28,32 @@
 <!--[![LeetCode](https://cp-logo.vercel.app/leetcode/kaiicheng)](https://leetcode.com/kaiicheng/)-->
 
 <div style="display: flex; justify-content: center; align-items: center;">
+  
   <img width="400em" height="290" src="https://leetcard.jacoblin.cool/kaiicheng?theme=light&ext=contest&width=600&radius=10&border=2" alt="LeetCode Stats"/>
   <img width="400em" src="https://github.com/kaiicheng/Codeforces-Dashboard/blob/main/output/light_card.svg" alt="Codeforces Stats"/>
 </div>
 
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img style="height: 290px; margin-right: 20px;" src="https://leetcard.jacoblin.cool/kaiicheng?theme=light&ext=contest&width=600&radius=10&border=2" alt="LeetCode Stats"/>
+  <img style="height: 290px;" src="https://github.com/kaiicheng/Codeforces-Dashboard/blob/main/output/light_card.svg" alt="Codeforces Stats"/>
+</div>
+
+<div style="display: flex; justify-content: center; align-items: center;">
+  <img src="https://leetcard.jacoblin.cool/kaiicheng?theme=light&ext=contest&width=600&radius=10&border=2" style="height: 290px; margin-right: 20px;" alt="LeetCode Stats"/>
+  <img src="https://github.com/kaiicheng/Codeforces-Dashboard/blob/main/output/light_card.svg" style="height: 290px;" alt="Codeforces Stats"/>
+</div>
 <!--
 <div style="display: flex; justify-content: center; align-items: center;">
   <img width="400em" height="300em" src="https://github-readme-stats.vercel.app/api?username=kaiicheng&show_icons=true&theme=light" alt="GitHub Stats"/>
   <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiicheng&layout=compact&theme=light" alt="Most Used Languages"/>
 </div>
 -->
+
+<div style="display: flex; justify-content: center; align-items: flex-start;">
+  <img style="width: 400px; height: 290px; margin-right: 20px;" src="https://leetcard.jacoblin.cool/kaiicheng?theme=light&ext=contest&width=600&radius=10&border=2" alt="LeetCode Stats"/>
+  <img style="width: 400px; height: 290px;" src="https://github.com/kaiicheng/Codeforces-Dashboard/blob/main/output/light_card.svg" alt="Codeforces Stats"/>
+</div>
+
 
 <!-- ![Kai's Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kaiicheng ID&layout=compact&hide_border=true&langs_count=10) -->
 <!-- 
