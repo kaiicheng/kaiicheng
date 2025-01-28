@@ -67,24 +67,6 @@ Here are some ideas to get you started:
  -->
 
 
-
-<!-- Icon logo source -->
-<!-- https://simpleicons.org/ -->
-
-[![Website](https://img.shields.io/badge/-Website-4B9AE5?style=flat&logo=safari&logoColor=white)](https://kaiicheng.github.io/)
-[![GitHub](https://img.shields.io/badge/-GitHub-2F2F2F?style=flat&logo=github&logoColor=white)](https://github.com/kaiicheng)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/kaiicheng/)
-[![Email](https://img.shields.io/badge/-Email-D9534F?style=flat&logo=gmail&logoColor=white)](mailto:sc2745@cornell.edu)
-[![LeetCode](https://cp-logo.vercel.app/leetcode/kaiicheng)](https://leetcode.com/kaiicheng/)
-[![Codeforces](https://raw.githubusercontent.com/kaiicheng/Codeforces-Dashboard/main/output/max_rating.svg)](https://codeforces.com/profile/kaiicheng)
-[![Visitors](https://komarev.com/ghpvc/?username=kaiicheng)](https://github.com/kaiicheng/)
-
-<p float="left">
-<img width="400em" src="https://raw.githubusercontent.com/kaiicheng/Github-Dashboard/master/generated/overview.svg" alt="GitHub Overview"/>
-<img width="400em" src="https://raw.githubusercontent.com/kaiicheng/Github-Dashboard/master/generated/languages.svg" alt="Top Languages"/>
-</p>
-
-<p float="left">
-<img width="400em" height="275" src="https://leetcard.jacoblin.cool/kaiicheng?theme=light&ext=contest" alt="LeetCode Stats"/>
-<img width="400em" src="https://raw.githubusercontent.com/kaiicheng/Codeforces-Dashboard/main/output/light_card.svg" alt="Codeforces Stats"/>
-</p>
+[![LeetCode](https://leetcard.jacoblin.cool/kaiicheng?theme=light&ext=contest)](https://leetcode.com/kaiicheng/)
+<img width="400em" src="https://github-readme-stats.vercel.app/api?username=kaiicheng&show_icons=true&theme=light" alt="GitHub Overview"/>
+<img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaiicheng&layout=compact&theme=light" alt="Top Languages"/>
