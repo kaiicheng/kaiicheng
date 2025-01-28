@@ -50,6 +50,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
  -->
-
-
-[![LeetCode](https://leetcard.jacoblin.cool/kaiicheng?theme=light&ext=contest)](https://leetcode.com/kaiicheng/)
