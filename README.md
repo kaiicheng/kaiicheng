@@ -20,8 +20,8 @@
 [![Gmail](https://img.shields.io/badge/-Email-D9534F?style=flat&logo=gmail&logoColor=white&link=mailto:sc2745@cornell.edu)](mailto:sc2745@cornell.edu)
 
 [![LeetCode](https://cp-logo.vercel.app/leetcode/kaiicheng)](https://leetcode.com/kaiicheng/)
+[![Codeforces](https://raw.githubusercontent.com/](https://codeforces.com/profile/kaiicheng)
 
-![LeetCode Stats](https://leetcode-badge.chyroc.cn/?name=kaiicheng&theme=light)
 
 [![Codeforces](https://raw.githubusercontent.com/kaiicheng/Codeforces-Dashboard/main/output/max_rating.svg)](https://codeforces.com/profile/kaiicheng)
 [![Visitors](https://komarev.com/ghpvc/?username=kaiicheng)](https://github.com/kaiicheng/)
