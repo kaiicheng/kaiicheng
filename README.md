@@ -1,5 +1,5 @@
 ### Welcome to Kai's GitHub
-Software Engineer/Machine Learning Engineer/Data Scientist in New York City. 
+Software Engineer in New York City. 
 <!-- 🔍 Software Engineer/Machine Learning Engineer/Data Scientist in New York City.  -->
 
 
