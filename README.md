@@ -1,3 +1,5 @@
+![LeetCode Score](https://raw.githubusercontent.com/kaiicheng/leetcode-score-tracker/main/badge.svg)
+
 ### Welcome to Kai's GitHub
 
 Software Engineer in New York City. 
