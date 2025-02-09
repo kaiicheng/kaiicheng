@@ -1,4 +1,5 @@
 ![LeetCode Score](https://raw.githubusercontent.com/kaiicheng/leetcode-score-tracker/main/badge.svg)
+![LeetCode](https://img.shields.io/badge/LeetCode-1724-orange?style=flat&logo=leetcode&logoColor=white)
 
 ### Welcome to Kai's GitHub
 
