@@ -21,7 +21,7 @@ Software Engineer in New York City.
 [![GitHub](https://img.shields.io/badge/-GitHub-2F2F2F?style=flat&logo=github&logoColor=white&link=[https://github.com/kaiicheng](https://github.com/kaiicheng))](https://github.com/kaiicheng)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-306EA8?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kaiicheng/)](https://www.linkedin.com/in/kaiicheng/) 
 [![Gmail](https://img.shields.io/badge/-Email-D9534F?style=flat&logo=gmail&logoColor=white&link=mailto:sc2745@cornell.edu)](mailto:sc2745@cornell.edu)
-![LeetCode](https://img.shields.io/badge/LeetCode-1724-orange?style=flat&logo=leetcode&logoColor=white)
+![LeetCode](https://img.shields.io/badge/LeetCode-1000-orange?style=flat&logo=leetcode&logoColor=white)
 [![Codeforces](https://raw.githubusercontent.com/kaiicheng/Codeforces-Dashboard/main/output/max_rating.svg)](https://codeforces.com/profile/kaiicheng)
 [![Visitors](https://komarev.com/ghpvc/?username=kaiicheng)](https://github.com/kaiicheng/)
 <!-- [![LeetCode](https://img.shields.io/badge/-LeetCode-5CB85C?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/kaiicheng/)](https://leetcode.com/kaiicheng/) -->
