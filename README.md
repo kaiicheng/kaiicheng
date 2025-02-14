@@ -10,7 +10,7 @@ Software Engineer in New York City.
 - 👋 Hi! I’m Kai Cheng. 
 - 💻 Proficient in Python, Java, C/C++.
 - 🛠️ Interested in Software Development, NLP, LLMs, Quant, HCI, and Startup.
-- 👨‍💻 Experienced as Quant, Software Engineer, ML Engineer, Data Scientist and Business Consultant.
+- 👨‍💻 Experienced as Quant, Software Engineer, ML Engineer, Applied Scientist and Business Consultant.
 - 👨‍🎓 Studied Computer and Information Science at Cornell University (Bowers CIS) - Cornell Tech in NYC 🔴🐻.
 - 📚 Studied Computer Science, Electrical Engineering, Physics, Business, and Social Sciences at National Taiwan University (NTU).
 
