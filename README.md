@@ -40,6 +40,5 @@ Software Engineer in New York City.
   <img width="400em" src="https://github.com/kaiicheng/Codeforces-Dashboard/blob/main/output/light_card.svg" alt="Codeforces Stats"/>
 </p>
 
-
 <!--![LeetCode](https://img.shields.io/badge/LeetCode-1724-orange?style=flat&logo=leetcode&logoColor=white) -->
 <!--![LeetCode](https://img.shields.io/badge/LeetCode-1000-orange?style=flat&logo=leetcode&logoColor=white) -->
