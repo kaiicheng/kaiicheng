@@ -5,7 +5,6 @@ Software Engineer/Machine Learning Engineer/Data Scientist in New York City.
 
 <!-- **kaiicheng/kaiicheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
-
 - 👋 Hi! I’m Kai Cheng. 
 - 💻 Proficient in Python, Java, C/C++.
 - 🛠️ Interested in Software Development, NLP, LLMs, Quant, HCI, and Startup.
