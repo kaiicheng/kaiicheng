@@ -1,4 +1,4 @@
-### Welcome to Kai's GitHub
+### Welcome to Kai's GitHub 
 Software Engineer/Machine Learning Engineer/Applied Schientist in New York City.
 <!-- 🔍 Software Engineer/Machine Learning Engineer/Data Scientist in New York City.  -->
 
