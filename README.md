@@ -10,6 +10,7 @@ Software Engineer/Machine Learning Engineer/Quantitative Engineer in New York Ci
 - 👨‍🎓 Studied Computer and Information Science at Cornell University (Bowers CIS) - Cornell Tech in NYC 🔴🐻.
 - 📚 Studied Computer Science, Electrical Engineering, Physics, Business, and Social Sciences at National Taiwan University (NTU).
 
+
 <!-- Icon logo source -->
 <!-- https://simpleicons.org/ -->
 
