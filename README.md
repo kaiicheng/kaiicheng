@@ -1,7 +1,7 @@
 <!-- **kaiicheng/kaiicheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ### Welcome to Kai's GitHub 
-Software Engineer/Machine Learning Engineer/Quantitative Engineer in New York City.
+Software Engineer/Machine Learning Engineer/Quantitative Researcher in New York City.
 
 - 👋 Hi! I’m Kai Cheng. 
 - 💻 Proficient in Python, Java, C/C++.
