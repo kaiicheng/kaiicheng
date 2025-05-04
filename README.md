@@ -37,4 +37,3 @@ Software Engineer/Machine Learning Engineer/Quantitative Researcher in New York 
 
 <!--![LeetCode](https://img.shields.io/badge/LeetCode-1724-orange?style=flat&logo=leetcode&logoColor=white) -->
 <!--![LeetCode](https://img.shields.io/badge/LeetCode-1000-orange?style=flat&logo=leetcode&logoColor=white) -->
-
