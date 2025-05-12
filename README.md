@@ -1,12 +1,12 @@
 <!-- **kaiicheng/kaiicheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 ### Welcome to Kai's GitHub 
-Software Engineer/Machine Learning Engineer/Quantitative Researcher in New York City.
+Software Engineer/Machine Learning Engineer/Quant in New York City.
 
 - 👋 Hi! I’m Kai Cheng. 
 - 💻 Proficient in Python, Java, C/C++.
-- 🛠️ Interested in NLP, LLMs, Quant Research, Hardware (GPU), and Startup.
-- 👨‍💻 Experienced as Quant, Software Engineer, ML Engineer, Applied Scientist and Business Consultant.
+- 🛠️ Interested in NLP, LLMs, Agents, Quant Research, Hardware (GPU), and Startup.
+- 👨‍💻 Experienced as Software Engineer, ML Engineer, Quant Researcher, and Business Consultant.
 - 👨‍🎓 Studied Computer and Information Science at Cornell University (Bowers CIS) - Cornell Tech in NYC 🔴🐻.
 - 📚 Studied Computer Science, Electrical Engineering, Physics, Business, and Social Sciences at National Taiwan University (NTU).
 
