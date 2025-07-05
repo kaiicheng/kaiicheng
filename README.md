@@ -3,7 +3,7 @@
 ### Welcome to Kai's GitHub 
 Machine Learning Engineer/Quantitative Researcher/Strategic Lead in New York City.
 
-- 👋 Hi! I’m Kai.
+- 👋 Hi! I’m Kai. 
 - 💻 Proficient in Python, Java, C/C++.
 - 🛠️ Interested in NLP, LLMs, Agents, Quant Research, Hardware (GPU), and Startup.
 - 👨‍💻 Experienced as Software Engineer, ML Engineer, Quant Researcher, and Business Consultant.
