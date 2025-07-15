@@ -1,5 +1,6 @@
 <!-- **kaiicheng/kaiicheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 ### Welcome to Kai's GitHub 
+
 Machine Learning Engineer/Quantitative Researcher/Strategic Lead in New York City.
 
 - 👋 Hi! I’m Kai. 
