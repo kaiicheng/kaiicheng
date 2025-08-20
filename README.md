@@ -9,7 +9,7 @@ Strategic Lead/Machine Learning Engineer/Quantitative Researcher in New York Cit
 - 🛠️ Interested in NLP, LLMs, Agents, Quant Research, Hardware (GPU), and Startup.
 - 👨‍💻 Experienced as Software Engineer, ML Engineer, Quant Researcher, and Business Consultant.
 - 👨‍🎓 Studied Computer and Information Science at Cornell University (Bowers CIS) - Cornell Tech in NYC 🔴🐻.
-- 📚 Studied Computer Science, Electrical Engineering, Physics, Business, and Social Sciences at National Taiwan University (NTU).
+- 📚 Studied Computer Science, Electrical Engineering, Physics, Business Administration, and Social Sciences at National Taiwan University (NTU).
 
 <!-- Icon logo source --> <!-- https://simpleicons.org/ -->
 [![Website](https://img.shields.io/badge/-Website-4B9AE5?style=flat&logo=safari&logoColor=white&link=[https://kaiicheng.github.io/](https://kaiicheng.github.io/))](https://kaiicheng.github.io/)
