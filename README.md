@@ -2,7 +2,7 @@
 
 ### Welcome to Kai's GitHub 
 
-Chief of Staff/Machine Learning Engineer/Quant Researcher in NYC.
+Strategic Lead/Machine Learning Engineer/Quant Researcher in NYC.
 
 - 👋 Hi! I’m Kai. 
 - 💻 Proficient in Python, Java, C/C++.
