@@ -1,7 +1,7 @@
 <!-- **kaiicheng/kaiicheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --> 
 ### Welcome to Kai's GitHub 
 
-Strategic Lead/ML Engineer/Quant Researcher.
+Strategic Lead/AI Researcher/Quant Developer in NYC.
 
 - 👋 Hi! I’m Kai. 
 - 💻 Proficient in Python, Java, C/C++.
