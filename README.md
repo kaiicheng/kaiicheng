@@ -3,6 +3,7 @@
 
 Strategic Lead/AI Researcher/Quant Developer in NYC.
 
+
 - 👋 Hi! I’m Kai. 
 - 💻 Proficient in Python, Java, C/C++.
 - 🛠️ Interested in NLP, LLMs, Agents, Quant Research, Hardware (GPU), and Startup.
