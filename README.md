@@ -2,6 +2,7 @@
 ### Welcome to Kai's GitHub 
 
 Chief of Staff/AI Researcher/Quant Developer in NYC. 
+
 - 👋 Hi! I’m Kai. 
 - 💻 Proficient in Python, Java, C/C++.
 - 🛠️ Interested in NLP, LLMs, Agents, Quant Research, Hardware (GPU), and Startup.
