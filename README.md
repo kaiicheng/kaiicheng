@@ -7,8 +7,8 @@ Chief of Staff/AI Researcher/Quant Developer in NYC.
 - 💻 Proficient in Python, Java, C/C++.
 - 🛠️ Interested in NLP, LLMs, Agents, Quant Research, Hardware (GPU), and Startup.
 - 👨‍💻 Experienced as Software Engineer, ML Engineer, Quant Researcher, and Business Consultant.
-- 👨‍🎓 Studied Computer and Information Science at Cornell University (Bowers CIS) - Cornell Tech in NYC 🔴🐻.
-- 📚 Studied at National Taiwan University (NTU).
+- 👨‍🎓 Studying at the University of Pennsylvania.
+- 📚 Alumni of Cornell University (Bowers CIS - Cornell Tech in NYC) and National Taiwan University (NTU).
 
 <!-- Icon logo source --> <!-- https://simpleicons.org/ -->
 [![Website](https://img.shields.io/badge/-Website-4B9AE5?style=flat&logo=safari&logoColor=white&link=[https://kaiicheng.github.io/](https://kaiicheng.github.io/))](https://kaiicheng.github.io/)
