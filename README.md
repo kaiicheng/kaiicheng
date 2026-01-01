@@ -1,7 +1,7 @@
 <!-- **kaiicheng/kaiicheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --> 
 ### Welcome to Kai's GitHub 
 
-Chief of Staff/Founding Engineer/AI&ML Researcher/Quant Developer in NYC. 
+Chief of Staff/Founding Engineer/ML Researcher/Quant Developer in NYC. 
 
 - 👋 Hi! I’m Kai. 
 - 💻 Proficient in Python, Java, C/C++.
