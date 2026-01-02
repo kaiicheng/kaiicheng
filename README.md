@@ -1,13 +1,13 @@
 <!-- **kaiicheng/kaiicheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. --> 
 ### Welcome to Kai's GitHub 
 
-Chief of Staff/Founding Engineer/ML Researcher/Quant Developer in NYC. 
+Chief of Staff/Founding Engineer/ML Researcher/Quant Developer in NYC.
 
 - 👋 Hi! I’m Kai. 
 - 💻 Proficient in Python, Java, C/C++.
 - 🛠️ Interested in NLP, LLMs, Agents, Quant Research, Hardware (GPU), and Startup.
 - 👨‍💻 Experienced as Software Engineer, ML Engineer, Quant Researcher, and Business Consultant.
-- 👨‍🎓 Studying at the University of Pennsylvania.
+- 👨‍🎓 Studying AI at the University of Pennsylvania.
 - 📚 Alumni of Cornell University (Bowers CIS - Cornell Tech in NYC) and National Taiwan University (NTU).
 
 <!-- Icon logo source --> <!-- https://simpleicons.org/ -->
