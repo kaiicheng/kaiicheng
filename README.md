@@ -1,6 +1,6 @@
 ### Welcome to Kai's GitHub 
 
-Founding Engineer/ML Researcher/Chief of Staff/Quantitative Analyst in NYC.
+Founding Engineer/ML Engineer/AI Researcher/Chief of Staff/Quantitative Analyst in NYC.
 
 - 👋 Hi! I’m Kai. 
 - 💻 Proficient in Python, Java, C/C++.
