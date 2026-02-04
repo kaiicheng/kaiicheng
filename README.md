@@ -21,7 +21,6 @@ Founding Engineer/ML Engineer/AI Researcher/Chief of Staff/Quantitative Analyst 
 <!-- [![LeetCode](https://img.shields.io/badge/-Codeforces-5CB85C?style=flat&logo=leetcode&logoColor=white&link=https://leetcode.com/kaiicheng/)](https://leetcode.com/kaiicheng/) -->
 <!-- [![Instagram](https://img.shields.io/badge/-Instagram-d62976?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com//)](https://www.instagram.com//) -->
 <!--[![LeetCode](https://cp-logo.vercel.app/leetcode/kaiicheng)](https://leetcode.com/kaiicheng/)-->
-
 <b>⚡ Developing Zone</b>
 <p style="display: flex; justify-content: center; align-items: center; gap: 20px;">
   <img width="400em" src="https://github.com/kaiicheng/Github-Dashboard/blob/master/generated/overview.svg" /> 
