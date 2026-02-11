@@ -1,6 +1,6 @@
 ### Welcome to Kai's GitHub 
 
-Founding Engineer/AI&ML Researcher/Chief of Staff in NYC.
+ML Engineer/AI Researcher in NYC.
 
 - 👋 Hi! I’m Kai. 
 - 💻 Proficient in Python, Java, C/C++.
