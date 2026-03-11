@@ -2,7 +2,7 @@
 
 Software Engineer/ML Engineer/AI Researcher in NYC.
 
-- 👋 Hi! I’m Kai. 
+- 👋 Hi! I’m Kai
 - 💻 Proficient in Python, Java, C/C++.
 - 🛠️ Interested in NLP, LLMs, Agents, Quant Research, Hardware (GPU), and Startup.
 - 👨‍💻 Experienced as Software Engineer, ML Engineer, Quant Researcher, and Business Consultant.
