@@ -7,7 +7,7 @@ Software Engineer/ML Engineer/AI Researcher in NYC.
 - 🛠️ Interested in NLP, LLMs, Agents, Quant Research, Hardware (GPU), and Startup.
 - 👨‍💻 Experienced as Software Engineer, ML Engineer, Quant Researcher, and Business Consultant.
 - 👨‍🎓 Studying AI at the University of Pennsylvania.
-- 📚 Alumni of Cornell University (Bowers CIS - Cornell Tech in NYC and Technion) and National Taiwan University (NTU).
+- 📚 Alumni of Cornell University (Bowers CIS - Cornell Tech in NYC and Technion – Israel Institute of Technology) and National Taiwan University (NTU).
 
 <!-- Icon logo source --> <!-- https://simpleicons.org/ -->
 [![Website](https://img.shields.io/badge/-Website-4B9AE5?style=flat&logo=safari&logoColor=white&link=[https://kaiicheng.github.io/](https://kaiicheng.github.io/))](https://kaiicheng.github.io/)
