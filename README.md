@@ -1,9 +1,7 @@
 ### Welcome to Kai's GitHub 
 
-ML Engineer/AI Researcher/Software Engineer in NYC.
-
-- 👋 Hi! I’m Kai
-- 💻 Proficient in Python, Java, C/C++.
+- 👋 Hi! I’m Kai.
+- 💻 ML Engineer/AI Researcher/Software Engineer in NYC.
 - 🛠️ Interested in NLP, LLMs, Agents, Quant Research, Hardware (GPU), and Startup.
 - 👨‍💻 Experienced as Software Engineer, ML Engineer, Quant Researcher, and Business Consultant.
 - 👨‍🎓 Studying AI at the University of Pennsylvania.
