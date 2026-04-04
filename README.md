@@ -3,7 +3,7 @@
 - 👋 Hi! I’m Kai.
 - 💻 AI Engineer/ML Researcher/Quant Developer in NYC.
 - 🛠️ Interested in NLP, LLMs, Agents, Quant Research, Hardware (GPU), and Startup.
-- 👨‍💻 Experienced as Software Engineer, ML Engineer, Quant Researcher, and Business Consultant.
+- 👨‍💻 Worked as Software Engineer, ML Engineer, Quant Researcher, and Business Consultant.
 - 👨‍🎓 Studying AI at the University of Pennsylvania.
 - 📚 Alumni of Cornell University (Bowers CIS - Cornell Tech in NYC and Technion) and National Taiwan University (NTU).
 
