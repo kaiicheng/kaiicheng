@@ -1,6 +1,6 @@
 ### Welcome to Kai's GitHub 
 
-- 👋 Hi! I’m Kai from Taiwan.
+- 👋 Hi! I’m Kai.
 - 💻 AI Engineer/ML Researcher/Quant Developer in NYC.
 - 🛠️ Interested in NLP, LLMs, Agents, Quant Research, Hardware (GPU), and Startups.
 - 👨‍💻 Worked as Software Engineer, ML Engineer, Quant Researcher, and Business Consultant.
