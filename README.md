@@ -1,7 +1,7 @@
 ### Welcome to Kai's GitHub 
 
 - 👋 Hi! I’m Kai.
-- 💻 AI Engineer/ML Researcher/Quant Developer in NYC.
+- 💻 AI Engineer/ML Researcher/Quant Developer.
 - 🛠️ Interested in NLP, LLMs, Agents, Quant Research, Hardware (GPU), Investment Banking, and Startups.
 - 👨‍💻 Worked as Software Engineer, ML Engineer, Quant Researcher, and Business Consultant.
 - 👨‍🎓 Currently studying AI at the University of Pennsylvania.
